@@ -1,0 +1,6 @@
+{
+  "name": "Shiv Jwellers Live Rates",
+  "description": "Professional live gold & silver rates tracking app with admin overrides and calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
